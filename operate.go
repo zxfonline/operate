@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"strings"
 
-	. "operate/stack"
+	. "github.com/zxfonline/operate/stack"
 )
 
 const (
